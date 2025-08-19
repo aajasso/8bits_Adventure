@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - platformer new\\assets\\scripts\\ui\\ui_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - platformer new\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - platformer new\\assets\\menucharcater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\menucharcater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\assets\\scripts\\levelcameratrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcameratrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\assets\\scripts\\levelcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\assets\\scripts\\damagetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B8F93F-C2DA-1E67-854E-7A370F6A5DB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAJcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:08:05.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuCharcater.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\MenuCharcater.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuCharcater.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\MenuCharcater.cs",
+              "RelativeToolTip": "Assets\\MenuCharcater.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:59:31.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI_MainMenu.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_MainMenu.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:54:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DamageTrigger.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\DamageTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageTrigger.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\DamageTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:40:47.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelCameraTrigger.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\LevelCameraTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelCameraTrigger.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\LevelCameraTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelCameraTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:40:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelCamera.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\LevelCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelCamera.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\LevelCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:38:34.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:16:47.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Platformer New\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAHABAAAAAAAAAAAAAHoBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:13:38.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
